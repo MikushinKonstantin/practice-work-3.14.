@@ -2,7 +2,7 @@
 
 LICENSE: [MIT](./license.md) 
 
-![git-logo](./assets/git-logo.png)(50%)
+![git-logo](./assets/git-logo.png)
 
 ---
 
