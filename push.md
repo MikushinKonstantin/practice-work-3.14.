@@ -1,7 +1,7 @@
 [< к содержанию](./readme.md)
-## git push
+## Git push
 
 ...
 
 ---
-[< back](./commit.md) ---- [next >](./reset.md)
+[back](./commit.md) | [next](./reset.md)
