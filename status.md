@@ -11,4 +11,4 @@ $ git status
 Пользуйтесь этой командой чаще, чтобы видеть состояние индекса
 
 ---
-[back](./git.md) | [next](./commit.md)
+[back](./git.md) | [next](./add.md)
